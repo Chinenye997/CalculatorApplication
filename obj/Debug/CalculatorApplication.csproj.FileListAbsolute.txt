@@ -1,0 +1,14 @@
+C:\Users\Bellany Nigeria\Desktop\colding project\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\Bellany Nigeria\Desktop\colding project\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\Bellany Nigeria\Desktop\colding project\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\Bellany Nigeria\Desktop\colding project\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.AssemblyReference.cache
+C:\Users\Bellany Nigeria\Desktop\colding project\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Bellany Nigeria\Desktop\colding project\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\Bellany Nigeria\Desktop\colding project\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+C:\Users\USER\Desktop\colding project\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\USER\Desktop\colding project\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\USER\Desktop\colding project\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\USER\Desktop\colding project\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\colding project\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\colding project\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\USER\Desktop\colding project\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
